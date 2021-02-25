@@ -1,1 +1,50 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    body{
+        background-image: url('Lobo.jpg');
+        
+    }
+    .Formulario{
+        width: 400px;
+        background: #24303c;
+        padding: 30px;
+        margin: auto;
+        margin-top: 100px;
+        border-radius: 55px;
+        font-family: cursive;
+        color: white;
+        box-shadow: 10px 15px 100px purple;
+    }
+    
+    .Formulario h4{
+        font-size: 32px;
+        margin-bottom: 20px;
+        background: #24303c;
+        color: white;
+    }
+    
+    .control{
+        width: 100%;
+        background: #24303c;
+        padding: 10px;
+        border-radius: 100px;
+        margin-bottom: 20px;
+        border: 3px solid #1f53c5;
+        font-family: cursive;
+        font-size: 16px;
+        color: white;
+    }
+    
+    .Formulario .button{
+        width: 100%;
+        background: #1f53c5;
+        border: none;
+        padding: 12px;
+        color: white;
+        margin: 16px 0;
+        font-size: 16px;
+    
+    }
